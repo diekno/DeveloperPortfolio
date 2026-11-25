@@ -1,0 +1,13 @@
+===== System Report =====
+Name: <Your Name> | Roll No: <Roll No> | Date: Wed Nov 25 13:14:21 UTC 2026
+---- CPU ----
+Model name:                              Intel(R) Core(TM) 7 240H
+Cores: 16
+---- Memory ----
+Total: 11Gi  Used: 625Mi
+---- Top 3 Processes by CPU ----
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root           1  0.0  0.1  24440 15032 ?        Ss   12:27   0:01 /usr/lib/systemd/systemd --system --deserialize=35
+root       12278  0.0  0.0   3892  1568 ?        S    13:06   0:00 /init
+message+     108  0.0  0.0   9048  5664 ?        Ss   12:27   0:00 @dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+Report generated successfully.
